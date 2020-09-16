@@ -34,3 +34,6 @@ echo.
 pause >nul
 
 :end
+echo Press any key to exit.
+pause>nul
+exit
